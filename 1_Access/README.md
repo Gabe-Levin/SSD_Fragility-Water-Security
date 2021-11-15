@@ -9,6 +9,6 @@ Identify hotspots where basic access to water and sanitation is lacking
 4. Run GOSTnets to calculate an Origin-Destination matrix of travel time between each origin-destination pair.
 
 ### Outputs
-Map of travel time to nearest water point.
+Map of travel time to nearest water point.  
 Summary statistics of % of population within 30 minutes, 1 hour, 2 hours of nearest water point.
 More TBD based on feedback.
