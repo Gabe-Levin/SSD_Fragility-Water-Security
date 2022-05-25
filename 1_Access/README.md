@@ -11,4 +11,4 @@ Identify hotspots where basic access to water and sanitation is lacking
 ### Outputs
 Map of travel time to nearest water point.  
 Summary statistics of % of population within 30 minutes, 1 hour, 2 hours of nearest water point.
-More TBD based on feedback.
+
