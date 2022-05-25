@@ -3,3 +3,6 @@ This repo conatinas a spatial assessment of key water-related challenges and opp
 
 # Note
 The code seen in this repo is part of a larger, yet unpublished, report. The final maps have been removed and the code has been modified to be non-identifying of project participants, and therefore may seem only partially complete. The full project report will be published shortly, and shared here within the repo.
+
+
+![Screenshot 2022-05-25 at 20-18-00 SSD_Fragility-Water-Security_Python_README md at main · Gabe-Levin_SSD_Fragility-Water-Security_Python](https://user-images.githubusercontent.com/28809110/170337952-96b8a50e-70b9-4e9d-b27e-87cc572ea26b.png)
